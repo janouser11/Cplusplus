@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Cplusplus.dir/main.cpp.o CMakeFiles/Cplusplus.dir/src/add.cpp.o CMakeFiles/Cplusplus.dir/src/multiply.cpp.o CMakeFiles/Cplusplus.dir/src/loop.cpp.o  -o Cplusplus 
