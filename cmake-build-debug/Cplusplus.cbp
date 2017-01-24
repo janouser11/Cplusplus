@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Cplusplus"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/alexjanousek/github/Cplusplus/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/alexjanousek/github/Cplusplus/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/alexjanousek/github/Cplusplus/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Cplusplus">
+				<Option output="/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Cplusplus" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexjanousek/github/Cplusplus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cplusplus"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Cplusplus/fast">
+				<Option output="/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Cplusplus" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexjanousek/github/Cplusplus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cplusplus/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexjanousek/github/Cplusplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/alexjanousek/github/Cplusplus/lib/add.h">
+			<Option target="Cplusplus"/>
+		</Unit>
+		<Unit filename="/Users/alexjanousek/github/Cplusplus/lib/loop.h">
+			<Option target="Cplusplus"/>
+		</Unit>
+		<Unit filename="/Users/alexjanousek/github/Cplusplus/lib/multiply.h">
+			<Option target="Cplusplus"/>
+		</Unit>
+		<Unit filename="/Users/alexjanousek/github/Cplusplus/main.cpp">
+			<Option target="Cplusplus"/>
+		</Unit>
+		<Unit filename="/Users/alexjanousek/github/Cplusplus/src/add.cpp">
+			<Option target="Cplusplus"/>
+		</Unit>
+		<Unit filename="/Users/alexjanousek/github/Cplusplus/src/loop.cpp">
+			<Option target="Cplusplus"/>
+		</Unit>
+		<Unit filename="/Users/alexjanousek/github/Cplusplus/src/multiply.cpp">
+			<Option target="Cplusplus"/>
+		</Unit>
+		<Unit filename="/Users/alexjanousek/github/Cplusplus/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
